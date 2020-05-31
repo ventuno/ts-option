@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}
